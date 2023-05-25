@@ -694,7 +694,7 @@
   letter-spacing: -1px;
   line-height: 0.28125rem;
   text-align: left;
-  width: 2.183594rem;
+  width: 3rem;
 }
 .hairlines .div1.fly-birds-page_7c25a99ccb .div54 .div56 .div57 .split_text734 {
   letter-spacing: -0.5px;
@@ -714,7 +714,7 @@
   letter-spacing: -1px;
   line-height: 0.28125rem;
   text-align: left;
-  width: 2.175781rem;
+  width: 3rem;
 }
 .hairlines .div1.fly-birds-page_7c25a99ccb .div54 .div56 .div58 .split_text735 {
   letter-spacing: -0.5px;
@@ -734,7 +734,7 @@
   letter-spacing: 0;
   line-height: 0.15625rem;
   text-align: left;
-  width: 2.183594rem;
+  width: 2.8rem;
 }
 .div1.fly-birds-page_7c25a99ccb .div60 {
   align-items: center;
@@ -779,7 +779,7 @@
   letter-spacing: -1px;
   line-height: 0.28125rem;
   text-align: left;
-  width: 5.214844rem;
+  width: 7rem;
 }
 .hairlines .div1.fly-birds-page_7c25a99ccb .div60 .div62 .div63 .split_text737 {
   letter-spacing: -0.5px;
@@ -861,7 +861,7 @@
   font-size: 0.140625rem;
   line-height: 0.222656rem;
   text-align: left;
-  width: 2.445313rem;
+  width: 2.545313rem;
 }
 .div1.fly-birds-page_7c25a99ccb .div60 .div62 .image68 {
   height: 1px;
@@ -1197,7 +1197,7 @@
   flex-direction: column;
   justify-content: center;
   margin-right: 0.066406rem;
-  margin-top: 0.039063rem;
+  margin-top: 0.25rem;
   min-height: 0.113281rem;
   width: 0.773438rem;
 }
@@ -1321,7 +1321,7 @@
   flex-direction: column;
   justify-content: center;
   margin-left: 0.121094rem;
-  margin-top: 0.042969rem;
+  margin-top: 0.25rem;
   min-height: 0.089844rem;
   width: 0.625rem;
 }
@@ -1376,7 +1376,7 @@
   letter-spacing: -1px;
   line-height: 0.15625rem;
   text-align: left;
-  width: 2.539063rem;
+  width: 2.8rem;
 }
 .hairlines
   .div1.fly-birds-page_7c25a99ccb
@@ -1869,6 +1869,7 @@
   width: 0.535156rem;
   z-index: 3;
 }
+
 .div1.fly-birds-page_7c25a99ccb .div125 .div128 .split_text770 {
   color: #000;
   font-size: 0.125rem;
@@ -1876,6 +1877,7 @@
   text-align: left;
   width: 1rem;
 }
+
 .div1.fly-birds-page_7c25a99ccb .div129 {
   align-items: center;
   background-color: #fff;
@@ -1888,6 +1890,7 @@
   width: 10rem;
   z-index: 14;
 }
+
 .div1.fly-birds-page_7c25a99ccb .div129 .split_text771 {
   color: #656565;
   font-size: 0.101563rem;
