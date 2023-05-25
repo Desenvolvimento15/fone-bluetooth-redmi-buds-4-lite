@@ -1,11 +1,9 @@
 $('.galeria').slick({
+  arrows: false,
+  dots: true,
+  infinite: true,
+  speed: 500,
+  autoplay: true,
   fade: true,
-    dots: true,
-    arrows: false,
-    infinite: true,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    autoplay: true,
-    autoplaySpeed: 5000,
-  
+  cssEase: 'linear'
   });
